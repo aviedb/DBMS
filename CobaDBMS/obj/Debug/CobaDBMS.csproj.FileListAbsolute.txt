@@ -1,0 +1,14 @@
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\bin\Debug\CobaDBMS.exe.config
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\bin\Debug\CobaDBMS.exe
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\bin\Debug\CobaDBMS.pdb
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\bin\Debug\MySql.Data.dll
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\bin\Debug\Google.Protobuf.dll
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\bin\Debug\MySql.Data.xml
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.csprojAssemblyReference.cache
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.Form1.resources
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.Properties.Resources.resources
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.csproj.GenerateResource.cache
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.csproj.CoreCompileInputs.cache
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.csproj.CopyComplete
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.exe
+C:\Users\aviedb\source\repos\CobaDBMS\CobaDBMS\obj\Debug\CobaDBMS.pdb
